@@ -2,10 +2,10 @@
 <h3 align="center">CS Undergraduate | Python Developer | AI/ML Engineer | GSoC 2026 Aspirant</h3>
 
 <p align="center">
-  <a href="https://github.com/PreethamAnand">GitHub</a> •
-  <a href="https://www.linkedin.com/in/preetham-anand">LinkedIn</a> •
-  <a href="https://leetcode.com/preetham_v23/">LeetCode</a> •
-  <a href="https://www.hackerrank.com/profile/P_2389_1A6550">HackerRank</a>
+  <a href="https://www.linkedin.com/in/preetham-anand"><img src="https://img.shields.io/badge/LinkedIn-PreethamAnand-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/PreethamAnand"><img src="https://img.shields.io/badge/GitHub-PreethamAnand-black?style=flat-square&logo=github"></a>
+  <a href="https://leetcode.com/u/preetham_v23/"><img src="https://img.shields.io/badge/LeetCode-DSA-orange?style=flat-square&logo=leetcode"></a>
+  <a href="https://www.hackerrank.com/profile/P_2389_1A6550"><img src="https://img.shields.io/badge/HackerRank-Problem_Solving-green?style=flat-square&logo=hackerrank"></a>
 </p>
 
 ---
