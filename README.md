@@ -30,8 +30,8 @@
     <td width="40%" valign="top">
       <h3>⚙️ Live Status</h3>
       <p align="left">
-        💻 <b>Working on</b>: Immersive voice interfaces & AI UX<br />
-        📚 <b>Learning</b>: MLflow, DVC & production ML pipelines<br />
+        💻 <b>Working on</b>: PulseConnect — AI-powered blood donor coordination platform<br />
+        📚 <b>Learning</b>: LangGraph multi-agent orchestration & production ML pipelines<br />
         🧩 <b>DSA Focus</b>: Linked Lists, Arrays, and Core Structures<br />
         ⚡ <b>Hackathons</b>: Google Cloud Gen AI & GDG alumnus<br />
       </p>
@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/DVC-9CF?style=for-the-badge&logo=dvc&logoColor=white" />
 </p>
@@ -76,8 +77,9 @@ Here is a curated list of AI/ML systems and scalable full-stack products I have 
 
 | Project | Visual Theme | Core Tech Stack | Focus Area |
 | :--- | :---: | :--- | :--- |
+| **Enterprise ATS Resume Analyzer** | 🟠 | `Python`, `LangChain`, `LangGraph`, `OpenRouter`, `Streamlit` | Multi-agent resume scoring, JD matching & rewrite suggestions |
 | **CrisisMind AI** | 🔴 | `Python`, `FastAPI`, `LLMs`, `RAG`, `React` | Real-time incident threat classification & AI command triage |
-| **PulseConnect+** | 🔵 | `Python`, `Streamlit`, `FastAPI`, `SQL`, `Maps API` | Smart healthcare emergency network & geolocation matching |
+| **PulseConnect** | 🔵 | `React`, `Supabase`, `CrewAI`, `FastAPI`, `Twilio` | AI-powered blood donor–hospital coordination & emergency routing |
 | **AI Cost Advisor** | 🟢 | `Python`, `AWS`, `FastAPI`, `Lyzr AI`, `Terraform` | Enterprise cloud workload capacity optimization & cost savings |
 | **DeepFake Detection** | 🟣 | `Python`, `TensorFlow`, `CNN`, `OpenCV` | facial forensics authenticity verification neural grid |
 | **Airfare Price Prediction** | 🟡 | `Python`, `Scikit-learn`, `XGBoost`, `Streamlit` | Fare forecasting, regression modeling & pricing curve trends |
