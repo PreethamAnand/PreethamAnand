@@ -1,14 +1,15 @@
-# 🌌 Preetham Anand | Developer Portfolio
+# 🌌 Preetham Anand | AI/ML Engineer & Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Preetham+Anand;AI+Engineering+%26+Full+Stack+Developer;Building+scalable%2C+intelligent+AI+systems;GSoC+2026+Aspirant+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Preetham+Anand;AI%2FML+Engineer+%26+Data+Enthusiast;Building+multi-agent+AI+%26+applied+ML+systems;GSoC+2026+Aspirant+%E2%9A%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/preetham-anand"><img src="https://img.shields.io/badge/LinkedIn-Preetham%20Anand-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/preetham_v23/"><img src="https://img.shields.io/badge/LeetCode-DSA%20Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.hackerrank.com/profile/P_2389_1A6550"><img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="mailto:preetham0802@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://preetham.live"><img src="https://img.shields.io/badge/Portfolio-preetham.live-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:preetham0802@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -19,21 +20,22 @@
   <tr>
     <td width="60%" valign="top">
       <h3>🚀 About Me</h3>
-      <p>I am a <b>Computer Science undergraduate</b> specializing in <b>Artificial Intelligence & Machine Learning</b>. I build high-fidelity intelligent systems, scalable backend architectures, and modern full-stack web applications.</p>
+      <p>I am a <b>Computer Science undergraduate (AI/ML)</b> who builds production-grade <b>multi-agent AI systems</b>, applied ML pipelines, and data-driven products end to end — from model/agent design down to deployed, scalable backends.</p>
       <ul>
-        <li>🌱 <b>Learning Approach</b>: Building first to understand the underlying architecture, then scaling.</li>
-        <li>💡 <b>Core Focus</b>: Production-ready AI pipelines, multi-agent AI ecosystems, and real-time data pipelines.</li>
-        <li>🎯 <b>Current Target</b>: Google Summer of Code (GSoC) 2026.</li>
-        <li>🧠 <b>DSA Routine</b>: Solving daily core structure and algorithmic problems (Consistency > Speed).</li>
+        <li>🌱 <b>Learning Approach</b>: Build first to understand the underlying architecture, then scale and harden it.</li>
+        <li>💡 <b>Core Focus</b>: Multi-agent AI orchestration (LangGraph/LangChain), applied ML & explainability (XGBoost, CNNs, SHAP), and data pipelines.</li>
+        <li>🎯 <b>Current Target</b>: AI/ML & Data roles, Master's abroad (Germany), and Google Summer of Code (GSoC) 2026.</li>
+        <li>🧠 <b>DSA Routine</b>: Daily core data structures & algorithms practice (Consistency > Speed).</li>
       </ul>
     </td>
     <td width="40%" valign="top">
       <h3>⚙️ Live Status</h3>
       <p align="left">
-        💻 <b>Working on</b>: PulseConnect — AI-powered blood donor coordination platform<br />
-        📚 <b>Learning</b>: LangGraph multi-agent orchestration & production ML pipelines<br />
-        🧩 <b>DSA Focus</b>: Linked Lists, Arrays, and Core Structures<br />
-        ⚡ <b>Hackathons</b>: Google Cloud Gen AI & GDG alumnus<br />
+        💻 <b>Building</b>: PulseConnect 2.0 — 8-agent LangGraph blood donor coordination platform<br />
+        🛰️ <b>Building</b>: UrbanCool — physics-informed ML for ISRO's Bharatiya Antariksh Hackathon 2026<br />
+        📚 <b>Learning</b>: LangGraph multi-agent orchestration, production ML pipelines & MLOps<br />
+        🧩 <b>DSA Focus</b>: Graphs, Trees, and Core Structures<br />
+        ⚡ <b>Hackathons</b>: Google Cloud Gen AI Exchange & GDG alumnus<br />
       </p>
     </td>
   </tr>
@@ -43,47 +45,61 @@
 
 ## 🛠️ Technology Ecosystem
 
-### 💻 Languages & Environments
+### 💻 Languages
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,bash" /></a>
 </p>
 
-### 🤖 AI / ML & Deep Learning
+### 🤖 AI / Agentic Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain%20(LCEL)-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-0194E2?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+### 📊 ML / Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-0066CC?style=for-the-badge&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/DVC-9CF?style=for-the-badge&logo=dvc&logoColor=white" />
 </p>
 
-### 🌐 Web Frameworks & Engines
+### 🌐 Web, Backend & Data Infra
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,streamlit,mysql,postman" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs,supabase,postgres,mongodb,graphql,streamlit" /></a>
 </p>
 
 ### 🔧 Core Tooling & Platform
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,vscode" /></a>
 </p>
 
 ---
 
 ## 📌 Featured Architectures & Builds
 
-Here is a curated list of AI/ML systems and scalable full-stack products I have built:
+Curated list of AI/ML systems and data-driven products I've built and shipped:
 
 | Project | Visual Theme | Core Tech Stack | Focus Area |
 | :--- | :---: | :--- | :--- |
-| **Enterprise ATS Resume Analyzer** | 🟠 | `Python`, `LangChain`, `LangGraph`, `OpenRouter`, `Streamlit` | Multi-agent resume scoring, JD matching & rewrite suggestions |
+| **PulseConnect 2.0** | 🔵 | `LangGraph`, `LangChain LCEL`, `FastAPI`, `Supabase (PostGIS)`, `React/TS`, `LangSmith` | 8-agent AI blood donor–hospital coordination, regulatory-compliant verification & real-time alerting |
+| **UrbanCool — ISRO Hackathon 2026** | 🛰️ | `LangGraph`, `Physics-Informed ML`, `SOLWEIG`, `FastAPI`, `Strawberry GraphQL`, `Gemini 2.5 Flash` | Multi-agent urban heat mitigation system calibrated against the SOLWEIG radiation model |
+| **Multimodal Eye Anemia Detection** | 🩺 | `CNN`, `XGBoost`, `SHAP`, `SMOTE`, `Python` | Fusion model (ocular imaging + blood report data), 98.10% accuracy — published IEEE paper |
+| **ResearchPilot AI** | 🌐 | `RAG`, `LLaMA-3.3-70B`, `ChromaDB`, `Groq API` | Document-grounded Q&A via semantic chunking & vector similarity search |
+| **TransitFlow** | 🎞️ | `Next.js`, `Three.js/GSAP`, `Vercel` | Scroll-driven 3D product visualization & interactive landing experience |
 | **CrisisMind AI** | 🔴 | `Python`, `FastAPI`, `LLMs`, `RAG`, `React` | Real-time incident threat classification & AI command triage |
-| **PulseConnect** | 🔵 | `React`, `Supabase`, `CrewAI`, `FastAPI`, `Twilio` | AI-powered blood donor–hospital coordination & emergency routing |
-| **AI Cost Advisor** | 🟢 | `Python`, `AWS`, `FastAPI`, `Lyzr AI`, `Terraform` | Enterprise cloud workload capacity optimization & cost savings |
-| **DeepFake Detection** | 🟣 | `Python`, `TensorFlow`, `CNN`, `OpenCV` | facial forensics authenticity verification neural grid |
+| **Enterprise ATS Resume Analyzer** | 🟠 | `Python`, `LangChain`, `LangGraph`, `OpenRouter`, `Streamlit` | Multi-agent resume scoring, JD matching & rewrite suggestions |
 | **Airfare Price Prediction** | 🟡 | `Python`, `Scikit-learn`, `XGBoost`, `Streamlit` | Fare forecasting, regression modeling & pricing curve trends |
-| **ResearchHub AI** | 🌐 | `RAG`, `LangChain`, `Vector Database`, `FastAPI` | Document intelligence RAG pipeline for knowledge synthesis |
+| **DeepFake Detection** | 🟣 | `Python`, `TensorFlow`, `CNN`, `OpenCV` | Facial forensics authenticity verification neural grid |
 
 ---
 
@@ -91,8 +107,10 @@ Here is a curated list of AI/ML systems and scalable full-stack products I have 
 
 ```rc
 📅 2025 - 2026 Timeline
+├── 🛰️ Building UrbanCool for ISRO's Bharatiya Antariksh Hackathon 2026 (PS01: Urban Heat Mitigation)
 ├── 🏆 Selected in GDG Hackathon Top 750 (out of 2500+ teams)
 ├── 🧠 Competed in Google Cloud x Hack2Skill Gen AI Exchange Hackathon
+├── 📄 Published IEEE paper — Multimodal Ocular Disease & Anemia Detection (CNN + XGBoost + SHAP)
 ├── 🎓 Completed AI Product Management Masterclass (by Founder, Nirvaha)
 └── ⚡ Solved 100+ Data Structures & Algorithms challenges on LeetCode
 ```
