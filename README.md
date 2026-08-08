@@ -148,8 +148,8 @@ Status: 🟡 Developed — not yet publicly deployed
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreethamAnand&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreethamAnand&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=PreethamAnand&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PreethamAnand&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=PreethamAnand&theme=tokyonight&hide_border=false&border_radius=10" width="97%" />
