@@ -152,7 +152,7 @@ Status: 🟡 Developed — not yet publicly deployed
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreethamAnand&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PreethamAnand&theme=tokyonight&hide_border=false&border_radius=10" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=PreethamAnand&theme=tokyonight&hide_border=false&border_radius=10" width="97%" />
 </p>
 
 ---
